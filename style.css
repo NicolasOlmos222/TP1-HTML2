@@ -1,0 +1,19 @@
+body{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+header{
+    text-align: center;
+}
+main{
+    display: flex;
+}
+
+div{
+    border: 1px solid black;
+    width: 250px;
+}
+.contIzq{
+    background-color: grey;
+    margin-bottom: 5px;
+}
